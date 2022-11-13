@@ -1,0 +1,44 @@
+/* body {
+  background-color: blue;
+}
+
+.container {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  padding-top: 20%;
+  padding-right: 10%;
+  padding-bottom: 20%;
+  padding-left: 10%;
+  border-style: solid;
+  display: block;
+  height: 70%;
+  border-color: black;
+  color: white;
+} */
+body {
+  text-align: center;
+  color: purple;
+  background-color: WHITE;
+}
+label {
+  display: block;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+input {
+  text-align: center;
+  border-color: purple;
+  padding-bottom: 0.4rem;
+  width: 30%;
+  padding-top: 0.4rem;
+  border-radius: 0.8rem;
+}
+
+button {
+  margin: 1rem;
+  color: aliceblue;
+  background-color: purple;
+  border-radius: 0.8rem;
+}
